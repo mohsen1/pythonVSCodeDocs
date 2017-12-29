@@ -30,7 +30,7 @@ I.e. this is necessary to ensure we have the same line numbers on the server and
 ```
 
 Details:
-- ```remoteRoot```: Is the path to the script file on the remote machine.
+- ```localRoot```: Is the path to the script file on the local machine.
 - ```port```: Is the port to connect to the remote machine on
 - ```remoteRoot```: Is where the source python files are located on the server
 - ```secret```: Is a pass phrase used to authenticate for remote debugging
